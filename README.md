@@ -1,6 +1,6 @@
 # CRONÔMETRO
 
-Teste e use: https://leopoliveira.github.io/Cronometro/
+Teste e use: https://leopoliveira.github.io/cronometro/
 
 ## FEATURES
 
